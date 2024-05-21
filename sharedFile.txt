@@ -1,2 +1,3 @@
 John was here
 Amy was here in testBranch
+Amy was here again in testBranch while john was also editing
